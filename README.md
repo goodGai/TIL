@@ -9,7 +9,6 @@
 - [Git](#git)
 - [JavaScript](#javascript)
 - [Nestjs](#nestjs)
-- [Demo](#demo)
 
 
 
@@ -33,17 +32,11 @@
 
 
 
+
+
 ## Nest.js
 
 
 
 
-
-
-
-
-
-## Demo
-
-- [测试](Demo/test.md)
 
