@@ -16,7 +16,8 @@
 
 ## Git
 
-- [git代理](Git/git代理.md)
+- [git 代理](Git/git代理.md)
+- [git 简易指南](Git/git简易指南.md)
 
 
 
