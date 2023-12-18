@@ -40,7 +40,8 @@
 
 ## Node
 
-- [Base64处理](Node.js/Base64图片处理)
+- [Base64处理](Node.js/Base64图片处理.md)
+- [图片下载与上传](Node.js/图片下载与上传.md)
 
 
 
