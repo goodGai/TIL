@@ -36,6 +36,7 @@
 - [防抖](JavaScript/防抖.md)
 - [undefined与null](JavaScript/undefined与null.md)
 - [xss](JavaScript/xss攻击.md)
+- [取消请求](JavaScript/取消请求.md)
 
 
 
