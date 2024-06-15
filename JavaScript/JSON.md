@@ -27,4 +27,4 @@ fn(tempObj)
 
 效果：
 
-![log](../Imgs/log.png)
+![  ](../Imgs/log.png)

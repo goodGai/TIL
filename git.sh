@@ -17,8 +17,8 @@ case $1 in
       git config --global --get https.proxy 
       ;;
   set)
-      git config --global http.proxy http://localhost:7890
-      git config --global https.proxy https://localhost:7890
+      git config --global http.proxy http://localhost:7897
+      git config --global https.proxy https://localhost:7897
       ;;
   unset)
       git config --global --unset http.proxy
